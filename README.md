@@ -26,4 +26,4 @@ pip install -r eda-requirements.txt
 4. The class average score is somewhere in the low 70s, high 60s  
 5. IQ has no relation with if a person is employed
 6. People with less than 50 are less desired due to less than wanted skill level
-7. The z-score for marks higher than 90 needs to be explored and may be a problem in the dataset 
+7. The z-score for marks higher than 90 is high and needs to be explored and may be a problem in the dataset 
